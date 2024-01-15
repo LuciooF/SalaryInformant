@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
-<style>
-html * {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-}
-</style>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+</head>
+
 <body>
-    <body style="background-color:powderblue;"></body>
-    <h1 style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" style="text-align:center;">Salary Informant</h1>
+    <h1>Salary Informant</h1>
     <br>
-    <p style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Welcome to Salary Informant! We will help you figure out where you sit in the salary landscape. Simply enter your details below to find out how average your current salary when comapred with your peers.</p>
+    <p>Welcome to Salary Informant! We will help you figure out where you sit in the salary landscape. Simply enter your
+        details below to find out how average your current salary when compared with your peers.</p>
     <br>
 
     <form action="/action_page.php">
@@ -17,18 +17,14 @@ html * {
         <input type="text" id="fname" name="fname" value="John"><br>
         <label for="lname">Last name:</label><br>
         <input type="text" id="lname" name="lname" value="Doe"><br><br>
-        <label for="age"
-        <label for="location">Location</label>
-        <input list="locations" name="location" id="location">
+        <label for="age"></label>
+        <input list="regions" name="region" id="region">
 
-        <datalist id="locations">
-            <option value="East Midlands">
-            <option value="West Midlands">
-            <option value="Northamptonshire">
-            <option value="Derbyshire">
-            <option value="Nottinghamshire">
+        <datalist id="regions">
         </datalist><br> <br>
         <input type="submit" value="Submit">
     </form>
+    <script src="/js/main.js"></script>
 </body>
+
 </html>
