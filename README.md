@@ -63,4 +63,4 @@ Ensure you have the following installed:
    - You should now be able to view and interact with the website.
 
 ## Contributing
-Feel free to fork this project and submit pull requests for any improvements or fixes.
+Feel free to fork this project and submit pull requests for any improvements or fixes <3.
