@@ -4,7 +4,8 @@
 :warning: **Disclaimer:** This project is a learning endeavor, and I am new to all the technologies used here. As such, you might encounter some basic errors and mistakes. I welcome you to create issues and provide feedback — I am just here to learn. Please be kind and constructive in your criticism. Thank you! :heart:
 
 ## Project Overview
-This website provides UK users with insights into how their salaries compare to others, using gov data to provide information on salaries by region, age, ethnic group, sex, etc. Built using Node.js, HTML, CSS, JavaScript, and other technologies, it offers an interactive and informative experience.
+This website provides UK users with insights into how their salaries compare to others, using gov data to provide information on salaries by region, age, ethnic group, sex, etc. Technologies used are listed below.
+This website aims to offer an interactive and informative experience in the far future.
 
 ## Technologies Used
 - Node.js
