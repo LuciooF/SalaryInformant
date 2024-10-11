@@ -1,3 +1,4 @@
+(Discontinued for now)
 # Salary Informant Website
 
 ## Note to Users
